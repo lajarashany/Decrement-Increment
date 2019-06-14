@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Decrement-Increment/static/css/main.afc5a2a3.chunk.css",
+    "main.js": "/Decrement-Increment/static/js/main.321b9078.chunk.js",
+    "main.js.map": "/Decrement-Increment/static/js/main.321b9078.chunk.js.map",
+    "runtime~main.js": "/Decrement-Increment/static/js/runtime~main.b87f13e8.js",
+    "runtime~main.js.map": "/Decrement-Increment/static/js/runtime~main.b87f13e8.js.map",
+    "static/js/2.c685126a.chunk.js": "/Decrement-Increment/static/js/2.c685126a.chunk.js",
+    "static/js/2.c685126a.chunk.js.map": "/Decrement-Increment/static/js/2.c685126a.chunk.js.map",
+    "index.html": "/Decrement-Increment/index.html",
+    "precache-manifest.a378b86272f685c848e9719cb86fb6f9.js": "/Decrement-Increment/precache-manifest.a378b86272f685c848e9719cb86fb6f9.js",
+    "service-worker.js": "/Decrement-Increment/service-worker.js",
+    "static/css/main.afc5a2a3.chunk.css.map": "/Decrement-Increment/static/css/main.afc5a2a3.chunk.css.map"
+  }
+}
